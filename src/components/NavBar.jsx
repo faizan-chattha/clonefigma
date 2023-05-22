@@ -34,8 +34,9 @@ const NavBar = () => {
                         className="nav-link active NavBar_item"
                         aria-current="page"
                         href="/"
-                      >
-                        Home
+                     >
+                       Home
+                      
                       </a>
                     </li>
                     <li className="nav-item">

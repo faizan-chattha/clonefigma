@@ -10,7 +10,8 @@ const AboutPage = () => {
         <div className="col-md-6">
           <div className="about-div">
             <img className="about-image" src={aboutImage} alt="About" />
-            <img src={green} alt="green" className="green-image " />
+            {/* <img src={green} alt="green" className="green-image " />  */}
+
           </div>
         </div>
         <div className="col-md-6">

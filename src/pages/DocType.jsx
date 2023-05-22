@@ -18,7 +18,7 @@ const DocType = () => {
           </p>
         </div>
       </div>
-      <div className="col-md-12 d-flex justify-content-center">
+      <div className=" frama-p">
         <img className="frame-image" src={Frame} alt="Frame 1" />
         <img className="frame-image" src={Frame} alt="Frame 2" />
         <img className="frame-image" src={Frame} alt="Frame 3" />
